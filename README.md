@@ -1,4 +1,4 @@
-# Vrinda-store-sales-analysi
+# Vrinda-store-sales-analysis
 # Sample insights
 * Women are more likely to buy compared to men.
 * MAHARASHTRA, KARNATKA AND UTTAR PRADESH are the top 3.
